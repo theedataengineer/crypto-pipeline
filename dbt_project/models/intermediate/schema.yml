@@ -1,0 +1,37 @@
+# models/intermediate/schema.yml
+
+version: 2
+
+models:
+  - name: int_price_metrics
+    description: >
+      Enriched kline data with moving averages, volatility,
+      returns and volume ratios. One row per candle per symbol.
+    columns:
+      - name: kline_id
+        tests:
+          - unique
+          - not_null
+      - name: symbol
+        tests:
+          - not_null
+      - name: ma_7
+        description: "7-period moving average of close price"
+      - name: volatility_7
+        description: "Rolling 7-period standard deviation of close price"
+      - name: pct_return
+        description: "Percentage return vs previous candle close"
+
+  - name: int_symbol_volume
+    description: >
+      Volume and trade activity aggregated per symbol,
+      enriched with 24hr ticker data and market rankings.
+    columns:
+      - name: symbol
+        tests:
+          - unique
+          - not_null
+      - name: volume_dominance_pct
+        description: "This symbol's share of total tracked volume"
+      - name: buy_pressure_pct
+        description: "Percentage of trades that were buys"

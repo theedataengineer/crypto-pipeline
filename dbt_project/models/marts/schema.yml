@@ -1,0 +1,49 @@
+# models/marts/schema.yml
+version: 2
+
+models:
+  - name: fct_crypto_candles
+    description: "Core fact table — one row per candle per symbol with all analytics"
+    columns:
+      - name: kline_id
+        tests:
+          - unique
+          - not_null
+      - name: symbol
+        tests:
+          - not_null
+      - name: close_price
+        tests:
+          - not_null
+      - name: trade_date
+        tests:
+          - not_null
+
+  - name: fct_crypto_trades
+    description: "Individual trade transactions with size classification"
+    columns:
+      - name: trade_key
+        tests:
+          - unique
+          - not_null
+      - name: symbol
+        tests:
+          - not_null
+
+  - name: dim_symbols
+    description: "Dimension table — one row per trading pair with current market state"
+    columns:
+      - name: symbol
+        tests:
+          - unique
+          - not_null
+
+  - name: mart_daily_market_summary
+    description: "Pre-aggregated daily summary — powers dashboard panels"
+    columns:
+      - name: symbol
+        tests:
+          - not_null
+      - name: trade_date
+        tests:
+          - not_null

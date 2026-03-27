@@ -1,0 +1,53 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "price_change": "2119.02000000",
+    "price_change_pct": "2.916",
+    "weighted_avg_price": "74122.35778088",
+    "prev_close_price": "72658.21000000",
+    "last_price": "74777.22000000",
+    "open_price": "72658.20000000",
+    "high_price": "76000.00000000",
+    "low_price": "72658.20000000",
+    "volume": "32053.13579000",
+    "quote_volume": "2375853999.02562520",
+    "open_time": 1773631379001,
+    "close_time": 1773717779001,
+    "count": 5929223,
+    "extracted_at": "2026-03-17T03:22:59.560273"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "price_change": "143.62000000",
+    "price_change_pct": "6.550",
+    "weighted_avg_price": "2298.20747031",
+    "prev_close_price": "2192.69000000",
+    "last_price": "2336.31000000",
+    "open_price": "2192.69000000",
+    "high_price": "2386.02000000",
+    "low_price": "2192.46000000",
+    "volume": "928913.52470000",
+    "quote_volume": "2134836001.73430300",
+    "open_time": 1773631379014,
+    "close_time": 1773717779014,
+    "count": 7920136,
+    "extracted_at": "2026-03-17T03:22:59.868976"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "price_change": "4.60000000",
+    "price_change_pct": "0.682",
+    "weighted_avg_price": "679.47517957",
+    "prev_close_price": "674.85000000",
+    "last_price": "679.45000000",
+    "open_price": "674.85000000",
+    "high_price": "687.82000000",
+    "low_price": "670.13000000",
+    "volume": "244702.81600000",
+    "quote_volume": "166269489.84320000",
+    "open_time": 1773631379105,
+    "close_time": 1773717779105,
+    "count": 1914744,
+    "extracted_at": "2026-03-17T03:23:00.237357"
+  }
+]

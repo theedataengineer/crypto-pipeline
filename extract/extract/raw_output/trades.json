@@ -1,0 +1,3002 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865755,
+    "price": "74768.46000000",
+    "quantity": "0.00033000",
+    "quote_qty": "24.67359180",
+    "trade_time": 1773717776218,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716741"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865756,
+    "price": "74768.45000000",
+    "quantity": "0.00034000",
+    "quote_qty": "25.42127300",
+    "trade_time": 1773717776228,
+    "is_buyer_maker": true,
+    "extracted_at": "2026-03-17T03:22:57.716759"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865757,
+    "price": "74768.45000000",
+    "quantity": "0.00052000",
+    "quote_qty": "38.87959400",
+    "trade_time": 1773717776538,
+    "is_buyer_maker": true,
+    "extracted_at": "2026-03-17T03:22:57.716771"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865758,
+    "price": "74768.46000000",
+    "quantity": "0.04477000",
+    "quote_qty": "3347.38395420",
+    "trade_time": 1773717776947,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716774"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865759,
+    "price": "74768.46000000",
+    "quantity": "0.00015000",
+    "quote_qty": "11.21526900",
+    "trade_time": 1773717777141,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716778"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865760,
+    "price": "74768.46000000",
+    "quantity": "0.00015000",
+    "quote_qty": "11.21526900",
+    "trade_time": 1773717777141,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716781"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865761,
+    "price": "74768.46000000",
+    "quantity": "0.00015000",
+    "quote_qty": "11.21526900",
+    "trade_time": 1773717777141,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716784"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865762,
+    "price": "74768.45000000",
+    "quantity": "0.03153000",
+    "quote_qty": "2357.44922850",
+    "trade_time": 1773717777223,
+    "is_buyer_maker": true,
+    "extracted_at": "2026-03-17T03:22:57.716787"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865763,
+    "price": "74768.46000000",
+    "quantity": "0.04985000",
+    "quote_qty": "3727.20773100",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716790"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865764,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716793"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865765,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716796"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865766,
+    "price": "74768.46000000",
+    "quantity": "0.00100000",
+    "quote_qty": "74.76846000",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716798"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865767,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716801"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865768,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716804"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865769,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716807"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865770,
+    "price": "74768.46000000",
+    "quantity": "0.00016000",
+    "quote_qty": "11.96295360",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716810"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865771,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716813"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865772,
+    "price": "74768.46000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98147680",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716816"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865773,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716819"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865774,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716822"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865775,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716825"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865776,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716828"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865777,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716831"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865778,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716834"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865779,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716837"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865780,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716840"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865781,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716843"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865782,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716846"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865783,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716849"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865784,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716851"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865785,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716854"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865786,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716857"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865787,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716860"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865788,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716863"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865789,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716866"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865790,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716869"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865791,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716872"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865792,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716875"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865793,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716878"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865794,
+    "price": "74768.46000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379220",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716881"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865795,
+    "price": "74768.47000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98147760",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716883"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865796,
+    "price": "74768.47000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23379290",
+    "trade_time": 1773717777419,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716890"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865797,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716893"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865798,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716896"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865799,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716899"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865800,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716902"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865801,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716905"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865802,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716907"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865803,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716913"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865804,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716916"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865805,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716919"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865806,
+    "price": "74770.06000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390420",
+    "trade_time": 1773717777422,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716922"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865807,
+    "price": "74770.07000000",
+    "quantity": "0.00566000",
+    "quote_qty": "423.19859620",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716925"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865808,
+    "price": "74770.07000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98160560",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716928"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865809,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716931"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865810,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716933"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865811,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716936"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865812,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716939"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865813,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716942"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865814,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716945"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865815,
+    "price": "74770.07000000",
+    "quantity": "0.00015000",
+    "quote_qty": "11.21551050",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716948"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865816,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716954"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865817,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716957"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865818,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716960"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865819,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716963"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865820,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716966"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865821,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716969"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865822,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716972"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865823,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716975"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865824,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716978"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865825,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716981"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865826,
+    "price": "74770.07000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390490",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716984"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865827,
+    "price": "74770.08000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390560",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716986"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865828,
+    "price": "74770.08000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390560",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716990"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865829,
+    "price": "74770.08000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98160640",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716992"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865830,
+    "price": "74770.08000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390560",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716995"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865831,
+    "price": "74770.08000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390560",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.716998"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865832,
+    "price": "74770.08000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390560",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717003"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865833,
+    "price": "74770.08000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23390560",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717006"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865834,
+    "price": "74770.74000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23395180",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717009"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865835,
+    "price": "74771.76000000",
+    "quantity": "0.00080000",
+    "quote_qty": "59.81740800",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717015"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865836,
+    "price": "74771.80000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23402600",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717018"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865837,
+    "price": "74773.65000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23415550",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717021"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865838,
+    "price": "74775.35000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23427450",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717024"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865839,
+    "price": "74775.36000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98202880",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717027"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865840,
+    "price": "74775.36000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98202880",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717030"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865841,
+    "price": "74775.36000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23427520",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717033"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865842,
+    "price": "74775.36000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23427520",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717036"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865843,
+    "price": "74775.36000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23427520",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717039"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865844,
+    "price": "74775.36000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23427520",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717041"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865845,
+    "price": "74776.48000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98211840",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717044"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865846,
+    "price": "74776.48000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98211840",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717047"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865847,
+    "price": "74776.48000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23435360",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717070"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865848,
+    "price": "74776.48000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98211840",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717074"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865849,
+    "price": "74776.49000000",
+    "quantity": "0.03207000",
+    "quote_qty": "2398.08203430",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717077"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865850,
+    "price": "74776.49000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98211920",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717080"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865851,
+    "price": "74777.21000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98217680",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717084"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865852,
+    "price": "74777.21000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98217680",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717087"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865853,
+    "price": "74777.21000000",
+    "quantity": "0.00007000",
+    "quote_qty": "5.23440470",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717090"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "trade_id": 6115865854,
+    "price": "74777.21000000",
+    "quantity": "0.00008000",
+    "quote_qty": "5.98217680",
+    "trade_time": 1773717777465,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:57.717096"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240386,
+    "price": "2336.08000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13937600",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430070"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240387,
+    "price": "2336.08000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37298400",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430117"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240388,
+    "price": "2336.09000000",
+    "quantity": "0.26410000",
+    "quote_qty": "616.96136900",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430123"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240389,
+    "price": "2336.09000000",
+    "quantity": "0.07230000",
+    "quote_qty": "168.89930700",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430128"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240390,
+    "price": "2336.09000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13939800",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430132"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240391,
+    "price": "2336.09000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13939800",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430136"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240392,
+    "price": "2336.10000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13942000",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430141"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240393,
+    "price": "2336.16000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37316800",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430145"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240394,
+    "price": "2336.16000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37316800",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430149"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240395,
+    "price": "2336.16000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13955200",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430153"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240396,
+    "price": "2336.16000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37316800",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430157"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240397,
+    "price": "2336.17000000",
+    "quantity": "0.00090000",
+    "quote_qty": "2.10255300",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430162"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240398,
+    "price": "2336.17000000",
+    "quantity": "0.00130000",
+    "quote_qty": "3.03702100",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430166"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240399,
+    "price": "2336.17000000",
+    "quantity": "0.12710000",
+    "quote_qty": "296.92720700",
+    "trade_time": 1773717777837,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430170"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240400,
+    "price": "2336.17000000",
+    "quantity": "0.07160000",
+    "quote_qty": "167.26977200",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430174"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240401,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430178"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240402,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430182"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240403,
+    "price": "2336.17000000",
+    "quantity": "0.00430000",
+    "quote_qty": "10.04553100",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430187"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240404,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430191"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240405,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430204"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240406,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430210"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240407,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430246"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240408,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430256"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240409,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430261"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240410,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430265"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240411,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430270"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240412,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430274"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240413,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430278"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240414,
+    "price": "2336.17000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13957400",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430282"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240415,
+    "price": "2336.18000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13959600",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430287"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240416,
+    "price": "2336.18000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13959600",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430291"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240417,
+    "price": "2336.18000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13959600",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430295"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240418,
+    "price": "2336.19000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13961800",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430314"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240419,
+    "price": "2336.19000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37323700",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430318"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240420,
+    "price": "2336.19000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37323700",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430321"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240421,
+    "price": "2336.19000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37323700",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430324"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240422,
+    "price": "2336.20000000",
+    "quantity": "0.07680000",
+    "quote_qty": "179.42016000",
+    "trade_time": 1773717777854,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430328"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240423,
+    "price": "2336.20000000",
+    "quantity": "0.25960000",
+    "quote_qty": "606.47752000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430331"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240424,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430334"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240425,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430343"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240426,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430346"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240427,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430350"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240428,
+    "price": "2336.20000000",
+    "quantity": "0.00300000",
+    "quote_qty": "7.00860000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430353"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240429,
+    "price": "2336.20000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37326000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430357"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240430,
+    "price": "2336.20000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37326000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430360"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240431,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430363"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240432,
+    "price": "2336.20000000",
+    "quantity": "0.00430000",
+    "quote_qty": "10.04566000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430367"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240433,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430370"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240434,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430377"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240435,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430380"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240436,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430383"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240437,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430387"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240438,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430390"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240439,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430394"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240440,
+    "price": "2336.20000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37326000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430397"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240441,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430400"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240442,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430404"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240443,
+    "price": "2336.20000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13964000",
+    "trade_time": 1773717777872,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430407"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240444,
+    "price": "2336.21000000",
+    "quantity": "0.10710000",
+    "quote_qty": "250.20809100",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430413"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240445,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430417"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240446,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430420"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240447,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430423"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240448,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430427"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240449,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430430"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240450,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430433"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240451,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430437"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240452,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430440"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240453,
+    "price": "2336.21000000",
+    "quantity": "0.00430000",
+    "quote_qty": "10.04570300",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430444"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240454,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430447"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240455,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430450"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240456,
+    "price": "2336.21000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13966200",
+    "trade_time": 1773717777874,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430454"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240457,
+    "price": "2336.22000000",
+    "quantity": "0.00330000",
+    "quote_qty": "7.70952600",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430457"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240458,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430461"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240459,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430464"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240460,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430467"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240461,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430471"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240462,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430474"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240463,
+    "price": "2336.22000000",
+    "quantity": "0.00430000",
+    "quote_qty": "10.04574600",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430478"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240464,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430482"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240465,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430485"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240466,
+    "price": "2336.22000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13968400",
+    "trade_time": 1773717777877,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430489"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240467,
+    "price": "2336.24000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13972800",
+    "trade_time": 1773717777879,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430492"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240468,
+    "price": "2336.24000000",
+    "quantity": "0.00430000",
+    "quote_qty": "10.04583200",
+    "trade_time": 1773717777879,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430495"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240469,
+    "price": "2336.24000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13972800",
+    "trade_time": 1773717777879,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430499"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240470,
+    "price": "2336.24000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13972800",
+    "trade_time": 1773717777879,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430502"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240471,
+    "price": "2336.24000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13972800",
+    "trade_time": 1773717777879,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430505"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240472,
+    "price": "2336.25000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13975000",
+    "trade_time": 1773717777879,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430509"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240473,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430512"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240474,
+    "price": "2336.30000000",
+    "quantity": "0.02150000",
+    "quote_qty": "50.23045000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430515"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240475,
+    "price": "2336.30000000",
+    "quantity": "0.00300000",
+    "quote_qty": "7.00890000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430518"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240476,
+    "price": "2336.30000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37349000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430522"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240477,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430529"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240478,
+    "price": "2336.30000000",
+    "quantity": "0.00230000",
+    "quote_qty": "5.37349000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430532"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240479,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430545"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240480,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430549"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240481,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430554"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240482,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430557"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240483,
+    "price": "2336.30000000",
+    "quantity": "0.00430000",
+    "quote_qty": "10.04609000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430564"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240484,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430567"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "trade_id": 3825240485,
+    "price": "2336.30000000",
+    "quantity": "0.00220000",
+    "quote_qty": "5.13986000",
+    "trade_time": 1773717777906,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:58.430574"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755697,
+    "price": "679.43000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43544000",
+    "trade_time": 1773717777896,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.152815"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755698,
+    "price": "679.43000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43544000",
+    "trade_time": 1773717777896,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.152900"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755699,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717777896,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.152922"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755700,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717777896,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.152942"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755701,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717777896,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.152962"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755702,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717777927,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.152982"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755703,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717777927,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153002"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755704,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717777927,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153022"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755705,
+    "price": "679.43000000",
+    "quantity": "0.29200000",
+    "quote_qty": "198.39356000",
+    "trade_time": 1773717777978,
+    "is_buyer_maker": true,
+    "extracted_at": "2026-03-17T03:22:59.153039"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755706,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778207,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153059"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755707,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778207,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153079"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755708,
+    "price": "679.44000000",
+    "quantity": "0.00600000",
+    "quote_qty": "4.07664000",
+    "trade_time": 1773717778207,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153099"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755709,
+    "price": "679.44000000",
+    "quantity": "0.00200000",
+    "quote_qty": "1.35888000",
+    "trade_time": 1773717778539,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153118"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755710,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778539,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153138"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755711,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778539,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153158"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755712,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778539,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153178"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755713,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778557,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153198"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755714,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778557,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153282"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755715,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778557,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153306"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755716,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778568,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153324"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755717,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778568,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153344"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755718,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778568,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153363"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755719,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778568,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153383"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755720,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778591,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153403"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755721,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778591,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153423"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755722,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778591,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153444"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755723,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778591,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153463"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755724,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778598,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153483"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755725,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778598,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153500"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755726,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778598,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153517"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755727,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778598,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153533"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755728,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778601,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153550"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755729,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778601,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153567"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755730,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778606,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153586"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755731,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778606,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153605"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755732,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778606,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153622"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755733,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778612,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153660"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755734,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778612,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153679"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755735,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778612,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153697"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755736,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778612,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153715"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755737,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778614,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153732"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755738,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778614,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153750"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755739,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778614,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153763"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755740,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778622,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153783"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755741,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778622,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153796"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755742,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778622,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153812"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755743,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778622,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153829"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755744,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778624,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153849"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755745,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778624,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153887"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755746,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778631,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153906"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755747,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778631,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153923"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755748,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778631,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153939"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755749,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778631,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153957"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755750,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778639,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153972"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755751,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778639,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.153992"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755752,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778639,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154008"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755753,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778639,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154025"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755754,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778648,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154042"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755755,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778648,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154057"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755756,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778648,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154073"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755757,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778648,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154088"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755758,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778657,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154106"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755759,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778657,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154122"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755760,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778657,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154140"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755761,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778664,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154158"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755762,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778664,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154177"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755763,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778664,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154196"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755764,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778664,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154260"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755765,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778671,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154283"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755766,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778671,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154302"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755767,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778671,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154321"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755768,
+    "price": "679.44000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43552000",
+    "trade_time": 1773717778671,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154341"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755769,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778678,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154359"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755770,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778678,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154378"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755771,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778678,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154396"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755772,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778678,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154436"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755773,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778685,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154455"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755774,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778685,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154478"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755775,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778685,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154497"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755776,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778685,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154516"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755777,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778685,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154535"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755778,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778691,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154554"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755779,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778691,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154573"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755780,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778691,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154592"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755781,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778696,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154611"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755782,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778696,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154629"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755783,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778703,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154648"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755784,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778703,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154667"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755785,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778703,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154685"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755786,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778710,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154703"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755787,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778710,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154722"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755788,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778710,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154741"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755789,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778716,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154759"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755790,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778716,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154780"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755791,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778716,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154799"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755792,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778716,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154834"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755793,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778723,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154854"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755794,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778723,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154874"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755795,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778723,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154892"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "trade_id": 1448755796,
+    "price": "679.45000000",
+    "quantity": "0.00800000",
+    "quote_qty": "5.43560000",
+    "trade_time": 1773717778723,
+    "is_buyer_maker": false,
+    "extracted_at": "2026-03-17T03:22:59.154953"
+  }
+]

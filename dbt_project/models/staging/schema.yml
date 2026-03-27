@@ -1,0 +1,43 @@
+version: 2
+
+models:
+  - name: stg_binance_klines
+    description: "Cleaned candlestick OHLCV data — one row per candle per symbol"
+    columns:
+      - name: kline_id
+        description: "Unique candle identifier"
+        tests:
+          - unique
+          - not_null
+      - name: symbol
+        tests:
+          - not_null
+          - accepted_values:
+              name: accepted_values_stg_binance_klines_symbol
+              arguments:
+                values: ['BTCUSDT', 'ETHUSDT', 'BNBUSDT']
+      - name: close_price
+        tests:
+          - not_null
+
+  - name: stg_binance_trades
+    description: "Cleaned individual trade transactions"
+    columns:
+      - name: trade_key
+        tests:
+          - unique
+          - not_null
+      - name: symbol
+        tests:
+          - not_null
+      - name: price
+        tests:
+          - not_null
+
+  - name: stg_binance_tickers
+    description: "Cleaned 24hr market ticker statistics"
+    columns:
+      - name: symbol
+        tests:
+          - unique
+          - not_null

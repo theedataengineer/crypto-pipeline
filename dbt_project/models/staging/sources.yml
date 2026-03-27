@@ -1,0 +1,28 @@
+version: 2
+
+sources:
+  - name: binance_raw
+    description: "Raw data loaded directly from the Binance API"
+    schema: public
+    tables:
+      - name: raw_binance_klines
+        description: "Raw OHLCV candlestick data from Binance"
+        columns:
+          - name: symbol
+            description: "Trading pair e.g. BTCUSDT"
+          - name: open_time
+            description: "Candle open time in Unix ms"
+          - name: close_price
+            description: "Closing price for the interval"
+
+      - name: raw_binance_trades
+        description: "Raw individual trade transactions"
+        columns:
+          - name: trade_id
+            description: "Unique trade identifier from Binance"
+
+      - name: raw_binance_tickers
+        description: "Raw 24hr market ticker statistics"
+        columns:
+          - name: symbol
+            description: "Trading pair"
