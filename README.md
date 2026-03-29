@@ -39,7 +39,7 @@ Grafana Dashboard    → live crypto market intelligence
 
 ## Data Sources
 
-All data comes from the **Binance Public REST API** — no API key required.
+All data comes from the **Binance Public REST API** and no API key required.
 
 | Endpoint | Data |
 |---|---|
@@ -232,7 +232,7 @@ for BTCUSDT, ETHUSDT, and BNBUSDT.
 
 ---
 
-### Crypto Price History — Close Price
+### Crypto Price History : Close Price
 
 ![Price History](assets/screenshots/price_history.png)
 
@@ -242,7 +242,7 @@ period, with the tooltip showing BTC at 66,707 USDT on 2026-03-27.
 
 ---
 
-### 7 / 14 / 30 Period Moving Averages — BTC
+### 7 / 14 / 30 Period Moving Averages : BTC
 
 ![Moving Averages](assets/screenshots/moving_average.png)
 
@@ -275,7 +275,7 @@ bearish at -5.63%).
 
 ---
 
-### Pipeline Health — Data Freshness
+### Pipeline Health : Data Freshness
 
 ![Pipeline Health](assets/screenshots/pipeline_health.png)
 
