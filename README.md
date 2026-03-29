@@ -54,7 +54,6 @@ All data comes from the **Binance Public REST API** — no API key required.
 ## Pipeline Layers
 
 ### Raw Layer (PostgreSQL)
-Stores data exactly as received from the API. No transformations.
 
 | Table | Description |
 |---|---|
@@ -63,8 +62,6 @@ Stores data exactly as received from the API. No transformations.
 | `raw_binance_tickers` | 24hr market statistics |
 
 ### Staging Layer (dbt views)
-Cleans and standardizes raw data — renames columns, converts
-timestamps, casts types, removes duplicates.
 
 | Model | Description |
 |---|---|
@@ -73,8 +70,6 @@ timestamps, casts types, removes duplicates.
 | `stg_binance_tickers` | Clean 24hr market stats |
 
 ### Intermediate Layer (dbt views)
-Enriches data with business metrics — moving averages,
-volatility, volume analysis, buy/sell pressure.
 
 | Model | Description |
 |---|---|
@@ -82,7 +77,6 @@ volatility, volume analysis, buy/sell pressure.
 | `int_symbol_volume` | Volume aggregation, dominance %, rankings |
 
 ### Mart Layer (dbt tables)
-Analytics-ready tables used directly by Grafana.
 
 | Model | Description |
 |---|---|
@@ -94,8 +88,6 @@ Analytics-ready tables used directly by Grafana.
 ---
 
 ## Key Analytics
-
-This pipeline answers the following business questions:
 
 - What is the daily average price of each cryptocurrency?
 - Which cryptocurrency has the highest trading volume?
@@ -111,16 +103,20 @@ This pipeline answers the following business questions:
 ```
 crypto-pipeline/
 ├── extract/
-│   └── binance_extract.py      # Binance API extraction script
+│   └── binance_extract.py
 ├── load/
-│   └── load_to_postgres.py     # PostgreSQL loading script
+│   └── load_to_postgres.py
 ├── dbt_project/
 │   ├── models/
-│   │   ├── staging/            # Cleaning and standardization
-│   │   ├── intermediate/       # Enrichment and aggregation
-│   │   └── marts/              # Analytics-ready tables
+│   │   ├── staging/
+│   │   ├── intermediate/
+│   │   └── marts/
 │   └── dbt_project.yml
-├── .env.example                # Environment variable template
+├── grafana/
+│   └── crypto_dashboard.json
+├── assets/
+│   └── screenshots/
+├── .env.example
 ├── .gitignore
 └── README.md
 ```
@@ -138,7 +134,7 @@ crypto-pipeline/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-pipeline.git
+git clone https://github.com/theedataengineer/crypto-pipeline.git
 cd crypto-pipeline
 ```
 
@@ -167,16 +163,9 @@ GRANT ALL PRIVILEGES ON DATABASE binance_db TO binance_pipeline;
 
 ### 5. Run the pipeline
 ```bash
-# Extract from Binance API
 python extract/binance_extract.py
-
-# Load into PostgreSQL
 python load/load_to_postgres.py
-
-# Run dbt transformations
-cd dbt_project
-dbt run
-dbt test
+cd dbt_project && dbt run && dbt test
 ```
 
 ### 6. Configure dbt profile
@@ -197,48 +186,115 @@ dbt_project:
       threads: 4
 ```
 
-### 7. Open Grafana
+### 7. Import Grafana dashboard
 
-Navigate to `http://localhost:3000` and connect PostgreSQL
-as a data source using your credentials.
+1. Open `http://localhost:3000`
+2. Go to **Dashboards → Import**
+3. Upload `grafana/crypto_dashboard.json`
+4. Select **Crypto Pipeline** as the data source
 
 ---
 
 ## Automated Pipeline (Cron)
-
-The pipeline runs automatically every hour via cron:
 ```bash
-# Extract → Load → Transform
-0  * * * * python extract/binance_extract.py
-5  * * * * python load/load_to_postgres.py
-10 * * * * cd dbt_project && dbt run
+0  * * * * cd ~/crypto-pipeline && source venv/bin/activate && python extract/binance_extract.py
+5  * * * * cd ~/crypto-pipeline && source venv/bin/activate && python load/load_to_postgres.py
+10 * * * * cd ~/crypto-pipeline/dbt_project && source ~/crypto-pipeline/venv/bin/activate && dbt run
 ```
 
 ---
 
 ## dbt Documentation
-
-Generate and serve interactive pipeline documentation:
 ```bash
 cd dbt_project
 dbt docs generate
 dbt docs serve
 ```
 
-Opens at `http://localhost:8080` — includes full lineage graph.
+Opens at `http://localhost:8080` — includes full data lineage graph.
+
+---
+
+## Dashboard Preview
+
+The Grafana dashboard connects directly to PostgreSQL and auto-refreshes
+every 5 minutes, giving a live view of the crypto market pipeline.
+
+---
+
+### Full Dashboard Overview
+
+![Dashboard Overview](assets/screenshots/dashboard_overview.png)
+
+The complete dashboard showing all 6 panels across the last 7 days —
+pipeline health, 7-day rolling average price trend, daily volatility,
+trading volume by symbol, moving averages, and close price history
+for BTCUSDT, ETHUSDT, and BNBUSDT.
+
+---
+
+### Crypto Price History — Close Price
+
+![Price History](assets/screenshots/price_history.png)
+
+7-day close price history for all three trading pairs. BTCUSDT (yellow)
+dominates the chart trading in the 66,000–70,000 USDT range over the
+period, with the tooltip showing BTC at 66,707 USDT on 2026-03-27.
+
+---
+
+### 7 / 14 / 30 Period Moving Averages — BTC
+
+![Moving Averages](assets/screenshots/moving_average.png)
+
+Bitcoin close price overlaid with MA7 (green), MA14 (yellow), and MA30
+(orange) over 7 days. Price peaked around 73,500 USDT on 03/22 and
+declined toward 66,500 USDT by 03/27. The convergence of MA7 below
+MA14 signals a developing death cross — a bearish momentum indicator.
+
+---
+
+### Daily Volatility % by Symbol
+
+![Daily Volatility](assets/screenshots/volatility.png)
+
+Daily volatility percentage grouped by symbol across 7 days. The most
+volatile day was 03/23 — BNBUSDT peaked at 1.69% and ETHUSDT at 1.60%.
+Volatility compressed to near zero by 03/27, indicating market
+consolidation.
+
+---
+
+### Current Market Sentiment
+
+![Market Sentiment](assets/screenshots/market_sentiment.png)
+
+Color-coded sentiment table derived from 24hr price change data.
+ETHUSDT leads at +8.25% (strongly bullish) and BTCUSDT at +2.35%
+(bullish), grading through yellow (neutral) down to red (strongly
+bearish at -5.63%).
+
+---
+
+### Pipeline Health — Data Freshness
+
+![Pipeline Health](assets/screenshots/pipeline_health.png)
+
+Raw table row counts and last extraction timestamps. As of 2026-03-27
+15:00 UTC — klines: 717 rows, trades: 3,000 rows, tickers: 30 rows.
 
 ---
 
 ## What I Learned
 
 - Designing and implementing a production ELT pipeline from scratch
-- Working with REST APIs and handling real-world data quality issues
+- Extracting data from a live REST API and handling failures gracefully
 - PostgreSQL schema design for analytical workloads
-- dbt data modeling — staging, intermediate, and mart layers
-- Writing idempotent data loads using `ON CONFLICT DO NOTHING`
+- dbt data modeling across staging, intermediate, and mart layers
+- Writing idempotent loads using `ON CONFLICT DO NOTHING`
 - SQL window functions for moving averages and volatility calculations
 - Connecting Grafana to PostgreSQL for live dashboard visualization
-- Scheduling pipelines with cron jobs
+- Scheduling automated pipelines with cron
 
 ---
 
