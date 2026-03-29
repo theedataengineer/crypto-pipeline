@@ -211,7 +211,7 @@ dbt docs generate
 dbt docs serve
 ```
 
-Opens at `http://localhost:8080` — includes full data lineage graph.
+Opens at `http://localhost:8080`. Includes full data lineage graph.
 
 ---
 
@@ -226,8 +226,7 @@ every 5 minutes, giving a live view of the crypto market pipeline.
 
 ![Dashboard Overview](assets/screenshots/dashboard_overview.png)
 
-The complete dashboard showing all 6 panels across the last 7 days —
-pipeline health, 7-day rolling average price trend, daily volatility,
+The complete dashboard showing all 6 panels across the last 7 days: pipeline health, 7-day rolling average price trend, daily volatility,
 trading volume by symbol, moving averages, and close price history
 for BTCUSDT, ETHUSDT, and BNBUSDT.
 
@@ -250,7 +249,7 @@ period, with the tooltip showing BTC at 66,707 USDT on 2026-03-27.
 Bitcoin close price overlaid with MA7 (green), MA14 (yellow), and MA30
 (orange) over 7 days. Price peaked around 73,500 USDT on 03/22 and
 declined toward 66,500 USDT by 03/27. The convergence of MA7 below
-MA14 signals a developing death cross — a bearish momentum indicator.
+MA14 signals a developing death cross, a bearish momentum indicator.
 
 ---
 
@@ -259,7 +258,7 @@ MA14 signals a developing death cross — a bearish momentum indicator.
 ![Daily Volatility](assets/screenshots/volatility.png)
 
 Daily volatility percentage grouped by symbol across 7 days. The most
-volatile day was 03/23 — BNBUSDT peaked at 1.69% and ETHUSDT at 1.60%.
+volatile day was 03/23. BNBUSDT peaked at 1.69% and ETHUSDT at 1.60%.
 Volatility compressed to near zero by 03/27, indicating market
 consolidation.
 
@@ -281,7 +280,7 @@ bearish at -5.63%).
 ![Pipeline Health](assets/screenshots/pipeline_health.png)
 
 Raw table row counts and last extraction timestamps. As of 2026-03-27
-15:00 UTC — klines: 717 rows, trades: 3,000 rows, tickers: 30 rows.
+15:00 UTC: klines: 717 rows, trades: 3,000 rows, tickers: 30 rows.
 
 ---
 
@@ -310,4 +309,4 @@ Risk Data Engineer
 
 ## License
 
-MIT License — feel free to fork and build on this project.
+MIT License: feel free to fork and build on this project.
