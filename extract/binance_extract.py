@@ -1,7 +1,7 @@
 """
 binance_extract.py
-------------------
-Extracts cryptocurrency market data from the Binance public REST API.
+
+- Extracts cryptocurrency market data from the Binance public REST API.
 
 Endpoints used:
     - /api/v3/klines        -> OHLCV candlestick data
@@ -17,38 +17,28 @@ import json
 import os
 from datetime import datetime
 
-# -----------------------------------------------------------------------
 # Configuration
-# In production, these come from environment variables or a config file.
-# Never hardcode values that might change between environments.
 
 BASE_URL = "https://api.binance.com"
 
 TRADING_PAIRS = ["BTCUSDT", "ETHUSDT", "BNBUSDT"]
 
 # Kline interval - "1h" means one candlestick per hour
-# Other options: 1m, 5m, 15m, 1d, 1w
 
 KLINE_INTERVAL = "1h"
 
-# How many candles to fetch per pair (max 1000 per request)
 KLINE_LIMIT = 100
 
-# How many trades to fetch per pair (max 1000 per request)
 TRADES_LIMIT = 100
 
 
-# ------------------------------------------------------------------------
 # Helper: make a safe API request with error handling
-# In production pipelines, you always handle failures gracefully.
-# A crashed extractor at 2 am is a real scenario - this prevents it.
-
 
 def fetch(endpoint: str, params: dict) -> list | dict | None:
     """
     Makes a GET request to the Binance API.
     Returns parsed JSON on success, None on failure.
-    Always logs what it's doing. Observability matters in production
+    Always logs what it's doing. Observability matters in production guysss
     """
 
     url = f"{BASE_URL}{endpoint}"
@@ -68,8 +58,8 @@ def fetch(endpoint: str, params: dict) -> list | dict | None:
         return None
     
 
-# -----------------------------------------------------------------------
 # Extractor 1: Klines (candlestick / OHLCV data)
+
 # This is the most important dataset - price history over time.
 # Used for: trend analysis, moving averages, volatility calculations.
 
@@ -116,12 +106,9 @@ def extract_klines(symbol: str) -> list:
     return records
     
 
-
-# -------------------------------------------------------------------------
 # Extractor 2: Recent trades
 # Individual buy/sell transactions.
 # Used for: trade volume analysis, buyer/seller ratio, liquidity.
-# -------------------------------------------------------------------------
 
 def extract_trades(symbol: str) -> list:
     """
@@ -156,8 +143,8 @@ def extract_trades(symbol: str) -> list:
 
 
 
-# -------------------------------------------------------------------------
 # Extractor 3: 24hr ticker statistics
+
 # High-level market summary for each trading pair.
 # Used for: daily summaries, price change %, volume rankings.
 
@@ -202,11 +189,9 @@ def extract_tickers() -> list:
 
 
 
-# -------------------------------------------------------------------------
 # Main Orchestrator
 # In production this would be triggered by Airflow, cron, or an
 # event. Here we run it directly. Same logic, different trigger.
-# -------------------------------------------------------------------------
 
 
 

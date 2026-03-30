@@ -20,7 +20,7 @@ daily as (
         trade_date,
         symbol,
 
-        -- ─── Daily Price Summary ───────────────────────────────────
+        -- Daily Price Summary
         round(min(low_price),   4)                      as daily_low,
         round(max(high_price),  4)                      as daily_high,
         round(avg(close_price), 4)                      as daily_avg_price,
@@ -38,12 +38,12 @@ daily as (
             rows between unbounded preceding and unbounded following
         )                                               as daily_close,
 
-        -- ─── Daily Volume ──────────────────────────────────────────
+        -- Daily Volume
         round(sum(volume),          4)                  as daily_volume,
         sum(number_of_trades)                           as daily_trades,
         count(*)                                        as total_candles,
 
-        -- ─── Volatility ────────────────────────────────────────────
+        -- Volatility
         -- High-Low range as % of daily open = daily volatility score
         round(
             (max(high_price) - min(low_price))
@@ -52,20 +52,20 @@ daily as (
 
         round(avg(volatility_7), 4)                     as avg_intraday_volatility,
 
-        -- ─── Candle Direction Counts ───────────────────────────────
+        -- Candle Direction Counts
         count(case when candle_direction = 'bullish' then 1 end) as bullish_candles,
         count(case when candle_direction = 'bearish' then 1 end) as bearish_candles,
 
-        -- ─── Volume Signals ────────────────────────────────────────
+        -- Volume Signals
         count(case when volume_signal = 'high_volume_spike'  then 1 end) as volume_spikes,
         count(case when volume_signal = 'elevated_volume'    then 1 end) as elevated_volume_candles,
 
-        -- ─── MA Signals ────────────────────────────────────────────
+        -- MA Signals
         -- How many hours was this coin in golden vs death cross?
         count(case when ma_signal = 'golden_cross' then 1 end) as golden_cross_hours,
         count(case when ma_signal = 'death_cross'  then 1 end) as death_cross_hours,
 
-        -- ─── Average MAs for the day ───────────────────────────────
+        -- Average MAs for the day
         round(avg(ma_7),  4)                            as avg_ma_7,
         round(avg(ma_14), 4)                            as avg_ma_14,
         round(avg(ma_30), 4)                            as avg_ma_30

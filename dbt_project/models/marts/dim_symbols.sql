@@ -20,19 +20,17 @@ kline_stats as (
 
 final as (
     select
-        -- ─── Identity ──────────────────────────────────────────────
+        -- Identity
         t.symbol,
 
         -- Parse base and quote asset from symbol name
         left(t.symbol, length(t.symbol) - 4)           as base_asset,
         right(t.symbol, 4)                             as quote_asset,
 
-        -- ─── Current Market State ──────────────────────────────────
+        -- Current Market State
         t.last_price                                   as current_price,
         t.price_change,
         t.price_change_pct,
-
-        -- ✅ FIXED: map actual staging columns to business names
         t.high_price        as daily_high,
         t.low_price         as daily_low,
         t.volume            as daily_volume,
@@ -50,7 +48,7 @@ final as (
             else                                'strongly_bearish'
         end                                             as market_sentiment,
 
-        -- ─── Historical Context ────────────────────────────────────
+        -- Historical Context
         k.first_seen_at,
         k.last_seen_at,
         k.total_candles,
@@ -64,7 +62,7 @@ final as (
             / nullif(k.historical_high, 0) * 100
         , 2)                                            as pct_from_high,
 
-        -- ─── Metadata ──────────────────────────────────────────────
+        -- Metadata
         current_timestamp                               as last_updated_at
 
     from tickers t

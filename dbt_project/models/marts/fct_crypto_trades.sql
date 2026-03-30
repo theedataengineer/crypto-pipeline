@@ -10,7 +10,7 @@ with trades as (
 
 final as (
     select
-        -- ─── Identity ──────────────────────────────────────────────
+        -- Identity
         trade_key,
         symbol,
         trade_id,
@@ -18,14 +18,13 @@ final as (
         date(traded_at)                                 as trade_date,
         extract(hour from traded_at)::integer           as trade_hour,
 
-        -- ─── Trade Details ─────────────────────────────────────────
-        price,
+        -- Trade Details
         quantity,
         quote_qty,
         trade_value_usdt,
         trade_direction,
 
-        -- ─── Trade Size Classification ─────────────────────────────
+        -- Trade Size Classification
         -- In crypto, large trades are called "whale" trades.
         -- Tracking these matters because whales move markets.
         case
@@ -35,7 +34,7 @@ final as (
             else                                 'small'
         end                                             as trade_size_category,
 
-        -- ─── Rolling context ───────────────────────────────────────
+        -- Rolling context
         -- How does this trade compare to recent average trade size?
         round(
             trade_value_usdt / nullif(avg(trade_value_usdt) over (

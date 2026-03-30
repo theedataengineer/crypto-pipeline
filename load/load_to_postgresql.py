@@ -1,7 +1,6 @@
 """
 load_to_postgresql.py
 
-------------------------------------------
 
 Loads raw extracted data from JSON files intos PostgreSQL.
 
@@ -19,10 +18,8 @@ from psycopg2.extras import execute_values
 from dotenv import load_dotenv
 from datetime import datetime
 
-# -------------------------------------------------------------------------
 # Load environment variables from .env
 # In production: AWS Secrets Manager, HashiCorp Vault, or K8s secrets
-# The pattern is the same - never hardcode credentials in code
 
 
 load_dotenv()
@@ -35,23 +32,20 @@ DB_CONFIG = {
     "password":     os.getenv("DB_PASSWORD")
 }
 
-# -------------------------------------------------------------------------
+
 # Database Connection
 # Using a context manager ensures the connection always closes cleanly
 # even if an error occurs - no connection leaks in production
-# -------------------------------------------------------------------------
 
 def get_connection():
     """Returns a live PostgreSQL connection."""
     return psycopg2.connect(**DB_CONFIG)
 
 
-# -------------------------------------------------------------------------
 # Schema creation
 # We create tables with IF NOT EXISTS - safe to run repeatedly.
 # Notice we keep all columns as TEXT or NUMERIC for the raw layer.
 # Type casting happens in dbt staging models, not here.
-# --------------------------------------------------------------------------
 
 CREATE_KLINES_TABLE = """
 CREATE TABLE IF NOT EXISTS raw_binance_klines (
@@ -128,12 +122,10 @@ def create_tables(conn):
 
 
 
-# -------------------------------------------------------------------------
 # Loaders
 # execute_values() is far more efficient than row-by-row inserts.
 # In production with millions of rows, this difference is massive.
 # ON CONFLICT DO NOTHING = idempotent - safe to re-run anytime.
-# -------------------------------------------------------------------------
 
 
 def load_klines(conn, records: list):
@@ -249,9 +241,7 @@ def load_tickers(conn, records: list):
         print(f" [OK] loaded {len(rows)} ticker records")
 
 
-# -------------------------------------------------------------------------
 # Main orchestrator
-# -------------------------------------------------------------------------
 
 def run_load():
     print("=" * 55)

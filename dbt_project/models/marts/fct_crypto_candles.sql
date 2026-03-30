@@ -12,7 +12,7 @@ with price_metrics as (
 
 final as (
     select
-        -- ─── Identity ──────────────────────────────────────────────
+        -- Identity
         kline_id,
         symbol,
 
@@ -23,7 +23,7 @@ final as (
         extract(hour from opened_at)::integer           as trade_hour,
         to_char(opened_at, 'Day')                       as day_of_week,
 
-        -- ─── Price OHLCV ───────────────────────────────────────────
+        -- Price OHLCV
         open_price,
         high_price,
         low_price,
@@ -34,7 +34,7 @@ final as (
         candle_direction,
         body_pct_of_range,
 
-        -- ─── Returns & Momentum ────────────────────────────────────
+        -- Returns & Momentum
         prev_close_price,
         pct_return,
 
@@ -46,7 +46,7 @@ final as (
             else                              'flat'
         end                                             as move_category,
 
-        -- ─── Moving Averages ───────────────────────────────────────
+        -- Moving Averages
         ma_7,
         ma_14,
         ma_30,
@@ -60,8 +60,7 @@ final as (
             else                    'neutral'
         end                                             as ma_signal,
 
-        -- ─── Volatility & Volume ───────────────────────────────────
-        volatility_7,
+        -- Volatility & Volume
         avg_volume_7,
         volume_ratio,
 
@@ -72,7 +71,7 @@ final as (
             else                          'normal_volume'
         end                                             as volume_signal,
 
-        -- ─── Rankings ──────────────────────────────────────────────
+        -- Rankings
         price_rank
 
     from price_metrics
