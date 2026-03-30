@@ -4,6 +4,11 @@ A production-style ELT data pipeline that extracts live cryptocurrency
 market data from the Binance API, loads it into PostgreSQL, transforms
 it using dbt, and visualizes insights in a Grafana dashboard.
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-316192?logo=postgresql)
+![dbt](https://img.shields.io/badge/dbt-Core-orange?logo=dbt)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana)
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## Architecture
